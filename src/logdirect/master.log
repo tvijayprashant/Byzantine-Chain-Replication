@@ -1,0 +1,630 @@
+[2022-11-16 10:21:01,886] da.api<MainProcess>:INFO: Bootstrapping attempt failed due to BootstrapException('Unable to contact a peer node.',),  continuing as a master node (use '--master' to disable bootstrapping at startup).
+[2022-11-16 10:21:01,887] da.api<MainProcess>:INFO: <Node_:MasterNode> initialized at 127.0.0.1:(UdpTransport=15000, TcpTransport=15000).
+[2022-11-16 10:21:01,887] da.api<MainProcess>:INFO: Starting program <module 'bcr' from '/Users/prashant/Desktop/BCR/src/bcr.py'>...
+[2022-11-16 10:21:01,889] da.api<MainProcess>:INFO: Running iteration 1 ...
+[2022-11-16 10:21:01,891] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  1
+[2022-11-16 10:21:01,891] da.api<MainProcess>:INFO: Waiting for remaining child processes to terminate...(Press "Ctrl-C" to force kill)
+[2022-11-16 10:21:01,892] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:21:01,893] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:21:09,770] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:21:39,642] da.api<MainProcess>:WARNING: Received keyboard interrupt. 
+[2022-11-16 10:21:52,252] da.api<MainProcess>:INFO: Bootstrapping attempt failed due to BootstrapException('Unable to contact a peer node.',),  continuing as a master node (use '--master' to disable bootstrapping at startup).
+[2022-11-16 10:21:52,253] da.api<MainProcess>:INFO: <Node_:MasterNode> initialized at 127.0.0.1:(UdpTransport=15000, TcpTransport=15000).
+[2022-11-16 10:21:52,253] da.api<MainProcess>:INFO: Starting program <module 'bcr' from '/Users/prashant/Desktop/BCR/src/bcr.py'>...
+[2022-11-16 10:21:52,254] da.api<MainProcess>:INFO: Running iteration 1 ...
+[2022-11-16 10:21:52,255] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  1
+[2022-11-16 10:21:52,256] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:21:52,257] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:21:52,258] da.api<MainProcess>:INFO: Waiting for remaining child processes to terminate...(Press "Ctrl-C" to force kill)
+[2022-11-16 10:22:00,642] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:01,259] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:01,260] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:01,260] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:01,279] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:01,279] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):9.023691
+[2022-11-16 10:22:01,280] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  1  Passed
+[2022-11-16 10:22:01,280] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:01,280] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  2
+[2022-11-16 10:22:01,281] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:01,281] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:01,303] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:01,482] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:01,483] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:01,483] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:01,483] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:01,484] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.203726
+[2022-11-16 10:22:01,484] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  2  Passed
+[2022-11-16 10:22:01,484] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:01,484] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  3
+[2022-11-16 10:22:01,486] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:01,487] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:01,517] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:01,700] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:01,701] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:01,701] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:01,701] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:01,702] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.217260
+[2022-11-16 10:22:01,702] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  3  Passed
+[2022-11-16 10:22:01,702] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:01,702] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  4
+[2022-11-16 10:22:01,703] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:01,704] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:01,728] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:01,915] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:01,915] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:01,915] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:01,915] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:01,915] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.213428
+[2022-11-16 10:22:01,916] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  4  Passed
+[2022-11-16 10:22:01,916] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:01,916] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  5
+[2022-11-16 10:22:01,917] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:01,918] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:01,948] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:02,197] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:02,198] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:02,198] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:02,198] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:02,199] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.282731
+[2022-11-16 10:22:02,199] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  5  Passed
+[2022-11-16 10:22:02,199] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:02,199] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  6
+[2022-11-16 10:22:02,200] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:02,201] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:02,238] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:02,480] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:02,480] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:02,480] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:02,480] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:02,481] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.281510
+[2022-11-16 10:22:02,481] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  6  Passed
+[2022-11-16 10:22:02,481] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:02,481] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  7
+[2022-11-16 10:22:02,482] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:02,483] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:02,504] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:02,711] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:02,712] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:02,712] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:02,712] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:02,712] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.231485
+[2022-11-16 10:22:02,713] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  7  Passed
+[2022-11-16 10:22:02,713] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:02,713] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  8
+[2022-11-16 10:22:02,714] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:02,715] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:02,738] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:03,013] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:03,014] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:03,014] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:03,014] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:03,014] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.301245
+[2022-11-16 10:22:03,014] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  8  Passed
+[2022-11-16 10:22:03,014] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:03,015] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  9
+[2022-11-16 10:22:03,015] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:03,016] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:03,052] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:03,253] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:03,253] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:03,254] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:03,254] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:03,254] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.239235
+[2022-11-16 10:22:03,254] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  9  Passed
+[2022-11-16 10:22:03,254] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:03,255] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  10
+[2022-11-16 10:22:03,256] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:03,257] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:03,282] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:03,470] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:03,470] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:03,470] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:03,471] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:03,471] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.216083
+[2022-11-16 10:22:03,471] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  10  Passed
+[2022-11-16 10:22:03,471] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:03,471] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  11
+[2022-11-16 10:22:03,472] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:03,473] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:03,508] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:03,868] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:03,869] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:03,869] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:03,869] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:03,869] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.398123
+[2022-11-16 10:22:03,869] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  11  Passed
+[2022-11-16 10:22:03,869] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:03,870] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  12
+[2022-11-16 10:22:03,871] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:03,872] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:03,915] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:07,142] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:07,142] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:07,142] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:07,143] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:07,143] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):3.273304
+[2022-11-16 10:22:07,143] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  12  Passed
+[2022-11-16 10:22:07,143] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:07,143] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  13
+[2022-11-16 10:22:07,145] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:07,146] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:07,185] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:07,545] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:07,546] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:07,546] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:07,546] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:07,547] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.403485
+[2022-11-16 10:22:07,547] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  13  Passed
+[2022-11-16 10:22:07,547] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:07,547] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  14
+[2022-11-16 10:22:07,549] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:07,550] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:07,591] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:07,970] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:07,971] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:07,971] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:07,972] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:07,972] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.424621
+[2022-11-16 10:22:07,972] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  14  Passed
+[2022-11-16 10:22:07,972] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:07,972] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  15
+[2022-11-16 10:22:07,973] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:07,974] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:08,015] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:08,255] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:08,256] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:08,256] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:08,257] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:08,257] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.284536
+[2022-11-16 10:22:08,257] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  15  Passed
+[2022-11-16 10:22:08,257] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:08,257] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  16
+[2022-11-16 10:22:08,258] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:08,259] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:08,302] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:08,543] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:08,544] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:08,544] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:08,544] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:08,544] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.287061
+[2022-11-16 10:22:08,544] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  16  Passed
+[2022-11-16 10:22:08,545] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:08,545] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  17
+[2022-11-16 10:22:08,546] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:08,547] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:08,582] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:08,955] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:08,955] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:08,956] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:08,956] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:08,956] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.411080
+[2022-11-16 10:22:08,956] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  17  Passed
+[2022-11-16 10:22:08,956] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:08,956] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  18
+[2022-11-16 10:22:08,958] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:08,958] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:08,998] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:09,239] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:09,240] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:09,240] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:09,240] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:09,241] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.284463
+[2022-11-16 10:22:09,241] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  18  Passed
+[2022-11-16 10:22:09,241] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:09,241] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  19
+[2022-11-16 10:22:09,242] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:09,243] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:09,278] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:09,546] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:09,546] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:09,547] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:09,547] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:09,547] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.305582
+[2022-11-16 10:22:09,547] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  19  Passed
+[2022-11-16 10:22:09,548] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:09,548] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  20
+[2022-11-16 10:22:09,549] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:09,550] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:09,586] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:09,862] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:09,863] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:09,863] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:09,863] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:09,864] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.315872
+[2022-11-16 10:22:09,864] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  20  Passed
+[2022-11-16 10:22:09,864] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:09,864] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  21
+[2022-11-16 10:22:09,865] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:09,866] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:09,897] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:10,246] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:10,246] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:10,246] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:10,246] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:10,247] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.382234
+[2022-11-16 10:22:10,247] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  21  Passed
+[2022-11-16 10:22:10,247] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:10,247] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  stresstest_1
+[2022-11-16 10:22:10,253] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:10,256] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:10,446] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:22:39,855] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:22:39,859] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:22:39,859] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:22:39,860] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:22:39,860] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):29.612965
+[2022-11-16 10:22:39,860] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  stresstest_1  Passed
+[2022-11-16 10:22:39,860] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:22:39,861] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  stresstest_2
+[2022-11-16 10:22:39,868] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 10:22:39,871] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 10:22:40,047] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 10:23:04,463] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 10:23:04,465] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 10:23:04,465] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 10:23:04,466] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 10:23:04,466] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):24.605429
+[2022-11-16 10:23:04,466] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  stresstest_2  Passed
+[2022-11-16 10:23:04,466] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 10:23:04,467] da.api<MainProcess>:INFO: Main process terminated.
+[2022-11-16 11:02:18,530] da.api<MainProcess>:INFO: Bootstrapping attempt failed due to BootstrapException('Unable to contact a peer node.',),  continuing as a master node (use '--master' to disable bootstrapping at startup).
+[2022-11-16 11:02:18,534] da.api<MainProcess>:INFO: <Node_:MasterNode> initialized at 127.0.0.1:(UdpTransport=15000, TcpTransport=15000).
+[2022-11-16 11:02:18,535] da.api<MainProcess>:INFO: Starting program <module 'bcr' from '/Users/prashant/Desktop/BCR/src/bcr.py'>...
+[2022-11-16 11:02:18,536] da.api<MainProcess>:INFO: Running iteration 1 ...
+[2022-11-16 11:02:18,540] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  1
+[2022-11-16 11:02:18,540] da.api<MainProcess>:INFO: Waiting for remaining child processes to terminate...(Press "Ctrl-C" to force kill)
+[2022-11-16 11:02:18,542] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:02:18,543] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:02:27,405] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:00,027] da.api<MainProcess>:WARNING: Received keyboard interrupt. 
+[2022-11-16 11:03:12,240] da.api<MainProcess>:INFO: Bootstrapping attempt failed due to BootstrapException('Unable to contact a peer node.',),  continuing as a master node (use '--master' to disable bootstrapping at startup).
+[2022-11-16 11:03:12,242] da.api<MainProcess>:INFO: <Node_:MasterNode> initialized at 127.0.0.1:(UdpTransport=15000, TcpTransport=15000).
+[2022-11-16 11:03:12,242] da.api<MainProcess>:INFO: Starting program <module 'bcr' from '/Users/prashant/Desktop/BCR/src/bcr.py'>...
+[2022-11-16 11:03:12,242] da.api<MainProcess>:INFO: Running iteration 1 ...
+[2022-11-16 11:03:12,243] da.api<MainProcess>:INFO: Waiting for remaining child processes to terminate...(Press "Ctrl-C" to force kill)
+[2022-11-16 11:03:12,244] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  1
+[2022-11-16 11:03:12,245] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:12,246] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:20,778] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:21,579] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:21,580] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:21,580] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:21,603] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:21,604] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):9.359639
+[2022-11-16 11:03:21,604] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  1  Passed
+[2022-11-16 11:03:21,604] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:21,604] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  2
+[2022-11-16 11:03:21,605] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:21,606] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:21,628] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:21,808] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:21,809] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:21,809] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:21,809] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:21,809] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.204677
+[2022-11-16 11:03:21,809] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  2  Passed
+[2022-11-16 11:03:21,809] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:21,809] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  3
+[2022-11-16 11:03:21,811] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:21,811] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:21,837] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:22,032] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:22,032] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:22,032] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:22,032] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:22,033] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.223366
+[2022-11-16 11:03:22,033] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  3  Passed
+[2022-11-16 11:03:22,033] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:22,033] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  4
+[2022-11-16 11:03:22,035] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:22,035] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:22,056] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:22,231] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:22,232] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:22,232] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:22,232] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:22,232] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.199259
+[2022-11-16 11:03:22,232] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  4  Passed
+[2022-11-16 11:03:22,232] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:22,232] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  5
+[2022-11-16 11:03:22,234] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:22,234] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:22,253] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:22,480] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:22,480] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:22,480] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:22,481] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:22,481] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.248261
+[2022-11-16 11:03:22,481] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  5  Passed
+[2022-11-16 11:03:22,481] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:22,481] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  6
+[2022-11-16 11:03:22,482] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:22,482] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:22,504] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:22,738] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:22,739] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:22,739] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:22,739] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:22,739] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.258055
+[2022-11-16 11:03:22,739] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  6  Passed
+[2022-11-16 11:03:22,739] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:22,739] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  7
+[2022-11-16 11:03:22,740] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:22,741] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:22,762] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:22,986] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:22,986] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:22,986] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:22,986] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:22,987] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.247173
+[2022-11-16 11:03:22,987] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  7  Passed
+[2022-11-16 11:03:22,987] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:22,987] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  8
+[2022-11-16 11:03:22,988] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:22,989] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:23,011] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:23,289] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:23,289] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:23,289] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:23,289] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:23,290] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.302348
+[2022-11-16 11:03:23,290] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  8  Passed
+[2022-11-16 11:03:23,290] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:23,290] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  9
+[2022-11-16 11:03:23,290] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:23,291] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:23,325] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:23,523] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:23,524] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:23,524] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:23,524] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:23,524] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.234438
+[2022-11-16 11:03:23,524] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  9  Passed
+[2022-11-16 11:03:23,525] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:23,525] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  10
+[2022-11-16 11:03:23,526] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:23,527] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:23,547] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:23,721] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:23,722] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:23,722] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:23,722] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:23,722] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.197591
+[2022-11-16 11:03:23,722] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  10  Passed
+[2022-11-16 11:03:23,722] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:23,723] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  11
+[2022-11-16 11:03:23,724] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:23,724] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:23,760] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:27,029] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:27,029] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:27,029] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:27,030] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:27,030] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):3.307184
+[2022-11-16 11:03:27,030] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  11  Passed
+[2022-11-16 11:03:27,030] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:27,030] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  12
+[2022-11-16 11:03:27,031] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:27,031] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:27,066] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:30,289] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:30,290] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:30,290] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:30,290] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:30,290] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):3.260471
+[2022-11-16 11:03:30,291] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  12  Passed
+[2022-11-16 11:03:30,291] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:30,291] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  13
+[2022-11-16 11:03:30,292] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:30,293] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:30,330] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:30,674] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:30,676] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:30,676] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:30,676] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:30,676] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.385661
+[2022-11-16 11:03:30,677] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  13  Passed
+[2022-11-16 11:03:30,677] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:30,677] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  14
+[2022-11-16 11:03:30,678] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:30,679] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:30,720] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:31,099] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:31,100] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:31,100] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:31,100] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:31,100] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.423471
+[2022-11-16 11:03:31,100] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  14  Passed
+[2022-11-16 11:03:31,101] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:31,101] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  15
+[2022-11-16 11:03:31,102] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:31,102] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:31,141] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:31,391] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:31,392] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:31,392] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:31,392] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:31,392] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.291565
+[2022-11-16 11:03:31,392] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  15  Passed
+[2022-11-16 11:03:31,393] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:31,393] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  16
+[2022-11-16 11:03:31,394] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:31,395] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:31,431] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:31,677] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:31,678] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:31,678] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:31,679] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:31,679] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.285896
+[2022-11-16 11:03:31,679] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  16  Passed
+[2022-11-16 11:03:31,679] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:31,679] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  17
+[2022-11-16 11:03:31,684] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:31,685] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:31,721] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:32,096] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:32,097] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:32,097] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:32,097] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:32,097] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.417663
+[2022-11-16 11:03:32,097] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  17  Passed
+[2022-11-16 11:03:32,097] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:32,097] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  18
+[2022-11-16 11:03:32,098] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:32,099] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:32,136] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:32,374] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:32,375] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:32,375] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:32,375] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:32,375] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.277543
+[2022-11-16 11:03:32,375] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  18  Passed
+[2022-11-16 11:03:32,375] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:32,375] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  19
+[2022-11-16 11:03:32,377] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:32,377] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:32,413] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:32,685] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:32,686] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:32,686] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:32,687] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:32,687] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.311514
+[2022-11-16 11:03:32,687] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  19  Passed
+[2022-11-16 11:03:32,687] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:32,687] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  20
+[2022-11-16 11:03:32,689] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:32,690] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:32,727] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:32,972] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:32,973] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:32,973] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:32,973] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:32,973] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.285911
+[2022-11-16 11:03:32,973] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  20  Passed
+[2022-11-16 11:03:32,974] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:32,974] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  21
+[2022-11-16 11:03:32,975] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:32,975] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:32,995] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):0.346440
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  21  Passed
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:33,320] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  stresstest_1
+[2022-11-16 11:03:33,325] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:33,327] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:33,474] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:03:58,419] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:03:58,422] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:03:58,422] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:03:58,422] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:03:58,423] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):25.102059
+[2022-11-16 11:03:58,423] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  stresstest_1  Passed
+[2022-11-16 11:03:58,423] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:03:58,423] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case :  stresstest_2
+[2022-11-16 11:03:58,430] bcr.Node_<Node_:MasterNode>:OUTPUT: configuration parameters are read from file
+[2022-11-16 11:03:58,432] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'ClientNode'...
+[2022-11-16 11:03:58,598] bcr.Node_<Node_:MasterNode>:INFO: Waiting to resolve name 'OlympusNode'...
+[2022-11-16 11:04:23,429] bcr.Node_<Node_:MasterNode>:INFO: master received done from all clients
+[2022-11-16 11:04:23,432] bcr.Node_<Node_:MasterNode>:OUTPUT: master acknowledge done to clients
+[2022-11-16 11:04:23,432] bcr.Node_<Node_:MasterNode>:OUTPUT: master waiting  done from  olympus
+[2022-11-16 11:04:23,432] bcr.Node_<Node_:MasterNode>:OUTPUT: master received done from olympus. Terminating
+[2022-11-16 11:04:23,433] bcr.Node_<Node_:MasterNode>:INFO: elapsed time (seconds):25.009624
+[2022-11-16 11:04:23,433] bcr.Node_<Node_:MasterNode>:OUTPUT: Test Case  stresstest_2  Passed
+[2022-11-16 11:04:23,433] bcr.Node_<Node_:MasterNode>:OUTPUT: ----------------------------------------------------------------------------------------------------
+
+
+[2022-11-16 11:04:23,434] da.api<MainProcess>:INFO: Main process terminated.
